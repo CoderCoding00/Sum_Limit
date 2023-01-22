@@ -16,4 +16,6 @@ Example Test Out Put
 Tested the code in the terminal using the commands 
 g++ main.cpp 
 ./a.out 
-to test against the a.out file
+to test against the a.out 
+
+file<img width="498" alt="Sum_Limit" src="https://user-images.githubusercontent.com/107374333/213899652-cdc8ca7a-4eda-4a93-ba84-78354fc2783d.png">
