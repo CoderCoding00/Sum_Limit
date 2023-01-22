@@ -10,12 +10,13 @@ Example Test Out Put
 • inputof(2,3) -> 5
 • inputof(8,3) -> 8
 • inputof(8,1) -> 9
-```
 
-# Screen Shot of the Test Output 
 Tested the code in the terminal using the commands 
 g++ main.cpp 
 ./a.out 
-to test against the a.out 
+to test against the a.out
+```
+
+# Screen Shot of the Test Output 
 
 file<img width="498" alt="Sum_Limit" src="https://user-images.githubusercontent.com/107374333/213899652-cdc8ca7a-4eda-4a93-ba84-78354fc2783d.png">
